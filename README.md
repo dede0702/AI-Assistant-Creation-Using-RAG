@@ -1,5 +1,7 @@
 # 🤖 Assistente Virtual de IA com Arquitetura RAG
 
+André Rovai Jr RM555848
+
 Este projeto tem como objetivo criar um **assistente virtual inteligente** para responder dúvidas sobre os **avanços mais recentes em Inteligência Artificial**, utilizando a arquitetura **RAG (Retrieval-Augmented Generation)**. A aplicação é alimentada por conteúdos extraídos de **PDFs e links web especializados**, oferecendo respostas contextualizadas e atualizadas.
 
 ---
